@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/15/trunk/src/de/tinysip/sip
+END
+SipSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/15/trunk/src/de/tinysip/sip/SipSession.java
+END
+AuthorizationDigest.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/12/trunk/src/de/tinysip/sip/AuthorizationDigest.java
+END
+SipManagerStatusListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/12/trunk/src/de/tinysip/sip/SipManagerStatusListener.java
+END
+SipRequestState.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/12/trunk/src/de/tinysip/sip/SipRequestState.java
+END
+SipManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/15/trunk/src/de/tinysip/sip/SipManager.java
+END
+SipManagerStatusChangedEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/15/trunk/src/de/tinysip/sip/SipManagerStatusChangedEvent.java
+END
+SipAudioFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/15/trunk/src/de/tinysip/sip/SipAudioFormat.java
+END
+LocalSipProfile.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/15/trunk/src/de/tinysip/sip/LocalSipProfile.java
+END
+SipManagerState.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/15/trunk/src/de/tinysip/sip/SipManagerState.java
+END
+SipContact.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/15/trunk/src/de/tinysip/sip/SipContact.java
+END
+SipManagerCallStatusEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/12/trunk/src/de/tinysip/sip/SipManagerCallStatusEvent.java
+END
+SipVideoFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/15/trunk/src/de/tinysip/sip/SipVideoFormat.java
+END
+SipManagerSessionEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/12/trunk/src/de/tinysip/sip/SipManagerSessionEvent.java
+END
+SipMessageHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/15/trunk/src/de/tinysip/sip/SipMessageHandler.java
+END

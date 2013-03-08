@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    >
+
+<TextView
+    android:id="@+id/sipstatustext"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="@string/app_name" />
+
+<Button
+    android:id="@+id/register"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:onClick="onclick"
+    android:text="Register" />
+
+<Button 
+    android:id="@+id/accept"
+    android:layout_width="wrap_content" 
+    android:layout_height="wrap_content" 
+    android:onClick ="onclick"
+    android:text="accept"
+    />
+
+<Button 
+    android:id="@+id/decline"
+    android:layout_width="wrap_content" 
+    android:layout_height="wrap_content" 
+    android:onClick ="onclick"
+    android:text="decline"
+    />
+
+<Button 
+    android:id="@+id/call"
+    android:layout_width="wrap_content" 
+    android:layout_height="wrap_content" 
+    android:onClick ="onclick"
+    android:text="call"
+    />
+
+<Button 
+    android:id="@+id/endcall"
+    android:layout_width="wrap_content" 
+    android:layout_height="wrap_content" 
+    android:onClick ="onclick"
+    android:text="endcall"
+    />
+
+<Button
+    android:id="@+id/test"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:onClick="onclick"
+    android:text="init" />
+
+<Button
+    android:id="@+id/MeidaService"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:onClick="onclick"
+    android:text="MediaService" />
+
+<Button
+    android:id="@+id/stopMedia"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:onClick="onclick"
+    android:text="stopMedia" />
+
+</LinearLayout>

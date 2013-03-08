@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/12/trunk/src/gov/nist/javax/sdp/parser
+END
+TimeFieldParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12/trunk/src/gov/nist/javax/sdp/parser/TimeFieldParser.java
+END
+Lexer.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/12/trunk/src/gov/nist/javax/sdp/parser/Lexer.java
+END
+ConnectionFieldParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/12/trunk/src/gov/nist/javax/sdp/parser/ConnectionFieldParser.java
+END
+URIFieldParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/12/trunk/src/gov/nist/javax/sdp/parser/URIFieldParser.java
+END
+ParserFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/12/trunk/src/gov/nist/javax/sdp/parser/ParserFactory.java
+END
+AttributeFieldParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/12/trunk/src/gov/nist/javax/sdp/parser/AttributeFieldParser.java
+END
+BandwidthFieldParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/12/trunk/src/gov/nist/javax/sdp/parser/BandwidthFieldParser.java
+END
+PhoneFieldParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/12/trunk/src/gov/nist/javax/sdp/parser/PhoneFieldParser.java
+END
+SDPAnnounceParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/12/trunk/src/gov/nist/javax/sdp/parser/SDPAnnounceParser.java
+END
+ProtoVersionFieldParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/12/trunk/src/gov/nist/javax/sdp/parser/ProtoVersionFieldParser.java
+END
+ZoneFieldParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12/trunk/src/gov/nist/javax/sdp/parser/ZoneFieldParser.java
+END
+MediaFieldParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/12/trunk/src/gov/nist/javax/sdp/parser/MediaFieldParser.java
+END
+RepeatFieldParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/12/trunk/src/gov/nist/javax/sdp/parser/RepeatFieldParser.java
+END
+SDPParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/12/trunk/src/gov/nist/javax/sdp/parser/SDPParser.java
+END
+SessionNameFieldParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/12/trunk/src/gov/nist/javax/sdp/parser/SessionNameFieldParser.java
+END
+InformationFieldParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/12/trunk/src/gov/nist/javax/sdp/parser/InformationFieldParser.java
+END
+OriginFieldParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/12/trunk/src/gov/nist/javax/sdp/parser/OriginFieldParser.java
+END
+EmailFieldParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/12/trunk/src/gov/nist/javax/sdp/parser/EmailFieldParser.java
+END
+KeyFieldParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/12/trunk/src/gov/nist/javax/sdp/parser/KeyFieldParser.java
+END

@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/12/trunk/doc/de/tinysip/sip
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/12/trunk/doc/de/tinysip/sip/package-frame.html
+END
+package-use.html
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/12/trunk/doc/de/tinysip/sip/package-use.html
+END
+SipAudioFormat.html
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/12/trunk/doc/de/tinysip/sip/SipAudioFormat.html
+END
+SipManager.html
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/12/trunk/doc/de/tinysip/sip/SipManager.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/12/trunk/doc/de/tinysip/sip/package-summary.html
+END
+SipManagerState.html
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/12/trunk/doc/de/tinysip/sip/SipManagerState.html
+END
+LocalSipProfile.html
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/12/trunk/doc/de/tinysip/sip/LocalSipProfile.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/12/trunk/doc/de/tinysip/sip/package-tree.html
+END
+SipManagerCallStatusEvent.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/12/trunk/doc/de/tinysip/sip/SipManagerCallStatusEvent.html
+END
+SipManagerSessionEvent.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/12/trunk/doc/de/tinysip/sip/SipManagerSessionEvent.html
+END
+SipMessageHandler.html
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/12/trunk/doc/de/tinysip/sip/SipMessageHandler.html
+END
+SipSession.html
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/12/trunk/doc/de/tinysip/sip/SipSession.html
+END
+AuthorizationDigest.html
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/12/trunk/doc/de/tinysip/sip/AuthorizationDigest.html
+END
+SipManagerStatusListener.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/12/trunk/doc/de/tinysip/sip/SipManagerStatusListener.html
+END
+SipRequestState.html
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/12/trunk/doc/de/tinysip/sip/SipRequestState.html
+END
+SipManagerStatusChangedEvent.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/12/trunk/doc/de/tinysip/sip/SipManagerStatusChangedEvent.html
+END
+SipContact.html
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/12/trunk/doc/de/tinysip/sip/SipContact.html
+END

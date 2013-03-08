@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/12/trunk/doc/de/javawi/jstun/header/class-use
+END
+MessageHeaderInterface.MessageHeaderType.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/12/trunk/doc/de/javawi/jstun/header/class-use/MessageHeaderInterface.MessageHeaderType.html
+END
+MessageHeaderException.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/12/trunk/doc/de/javawi/jstun/header/class-use/MessageHeaderException.html
+END
+MessageHeader.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/12/trunk/doc/de/javawi/jstun/header/class-use/MessageHeader.html
+END
+MessageHeaderInterface.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/12/trunk/doc/de/javawi/jstun/header/class-use/MessageHeaderInterface.html
+END
+MessageHeaderParsingException.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/12/trunk/doc/de/javawi/jstun/header/class-use/MessageHeaderParsingException.html
+END

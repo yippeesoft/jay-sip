@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/12/trunk/doc/de/javawi/jstun/attribute
+END
+MappedAddress.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/12/trunk/doc/de/javawi/jstun/attribute/MappedAddress.html
+END
+Username.html
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/12/trunk/doc/de/javawi/jstun/attribute/Username.html
+END
+ReflectedFrom.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/12/trunk/doc/de/javawi/jstun/attribute/ReflectedFrom.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/12/trunk/doc/de/javawi/jstun/attribute/package-frame.html
+END
+UnknownAttribute.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/12/trunk/doc/de/javawi/jstun/attribute/UnknownAttribute.html
+END
+MessageIntegrity.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/12/trunk/doc/de/javawi/jstun/attribute/MessageIntegrity.html
+END
+ErrorCode.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/12/trunk/doc/de/javawi/jstun/attribute/ErrorCode.html
+END
+package-use.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/12/trunk/doc/de/javawi/jstun/attribute/package-use.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12/trunk/doc/de/javawi/jstun/attribute/package-summary.html
+END
+MessageAttributeException.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/12/trunk/doc/de/javawi/jstun/attribute/MessageAttributeException.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/12/trunk/doc/de/javawi/jstun/attribute/package-tree.html
+END
+MappedResponseChangedSourceAddressReflectedFrom.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/12/trunk/doc/de/javawi/jstun/attribute/MappedResponseChangedSourceAddressReflectedFrom.html
+END
+MessageAttributeInterface.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/12/trunk/doc/de/javawi/jstun/attribute/MessageAttributeInterface.html
+END
+Dummy.html
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/12/trunk/doc/de/javawi/jstun/attribute/Dummy.html
+END
+ChangeRequest.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/12/trunk/doc/de/javawi/jstun/attribute/ChangeRequest.html
+END
+ChangedAddress.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/12/trunk/doc/de/javawi/jstun/attribute/ChangedAddress.html
+END
+Password.html
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/12/trunk/doc/de/javawi/jstun/attribute/Password.html
+END
+MessageAttributeInterface.MessageAttributeType.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/12/trunk/doc/de/javawi/jstun/attribute/MessageAttributeInterface.MessageAttributeType.html
+END
+ResponseAddress.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12/trunk/doc/de/javawi/jstun/attribute/ResponseAddress.html
+END
+SourceAddress.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/12/trunk/doc/de/javawi/jstun/attribute/SourceAddress.html
+END
+UnknownMessageAttributeException.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/12/trunk/doc/de/javawi/jstun/attribute/UnknownMessageAttributeException.html
+END
+MessageAttribute.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/12/trunk/doc/de/javawi/jstun/attribute/MessageAttribute.html
+END
+MessageAttributeParsingException.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/12/trunk/doc/de/javawi/jstun/attribute/MessageAttributeParsingException.html
+END

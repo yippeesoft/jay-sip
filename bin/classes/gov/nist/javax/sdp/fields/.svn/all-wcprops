@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/12/trunk/src/gov/nist/javax/sdp/fields
+END
+Indentation.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/12/trunk/src/gov/nist/javax/sdp/fields/Indentation.java
+END
+PhoneField.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/12/trunk/src/gov/nist/javax/sdp/fields/PhoneField.java
+END
+SDPObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/12/trunk/src/gov/nist/javax/sdp/fields/SDPObject.java
+END
+ProtoVersionField.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/12/trunk/src/gov/nist/javax/sdp/fields/ProtoVersionField.java
+END
+SDPFieldNames.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/12/trunk/src/gov/nist/javax/sdp/fields/SDPFieldNames.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/12/trunk/src/gov/nist/javax/sdp/fields/package.html
+END
+SDPKeywords.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/12/trunk/src/gov/nist/javax/sdp/fields/SDPKeywords.java
+END
+ZoneField.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/12/trunk/src/gov/nist/javax/sdp/fields/ZoneField.java
+END
+MediaField.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/12/trunk/src/gov/nist/javax/sdp/fields/MediaField.java
+END
+PreconditionFields.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/12/trunk/src/gov/nist/javax/sdp/fields/PreconditionFields.java
+END
+RepeatField.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/12/trunk/src/gov/nist/javax/sdp/fields/RepeatField.java
+END
+SDPFieldList.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/12/trunk/src/gov/nist/javax/sdp/fields/SDPFieldList.java
+END
+Email.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/12/trunk/src/gov/nist/javax/sdp/fields/Email.java
+END
+SessionNameField.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/12/trunk/src/gov/nist/javax/sdp/fields/SessionNameField.java
+END
+InformationField.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/12/trunk/src/gov/nist/javax/sdp/fields/InformationField.java
+END
+SDPField.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/12/trunk/src/gov/nist/javax/sdp/fields/SDPField.java
+END
+OriginField.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/12/trunk/src/gov/nist/javax/sdp/fields/OriginField.java
+END
+EmailField.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/12/trunk/src/gov/nist/javax/sdp/fields/EmailField.java
+END
+KeyField.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/12/trunk/src/gov/nist/javax/sdp/fields/KeyField.java
+END
+EmailAddress.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/12/trunk/src/gov/nist/javax/sdp/fields/EmailAddress.java
+END
+SDPFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/12/trunk/src/gov/nist/javax/sdp/fields/SDPFormat.java
+END
+TimeField.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/12/trunk/src/gov/nist/javax/sdp/fields/TimeField.java
+END
+ConnectionField.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12/trunk/src/gov/nist/javax/sdp/fields/ConnectionField.java
+END
+URIField.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/12/trunk/src/gov/nist/javax/sdp/fields/URIField.java
+END
+TypedTime.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/12/trunk/src/gov/nist/javax/sdp/fields/TypedTime.java
+END
+ConnectionAddress.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/12/trunk/src/gov/nist/javax/sdp/fields/ConnectionAddress.java
+END
+AttributeField.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/12/trunk/src/gov/nist/javax/sdp/fields/AttributeField.java
+END
+BandwidthField.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/12/trunk/src/gov/nist/javax/sdp/fields/BandwidthField.java
+END
+SDPObjectList.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/12/trunk/src/gov/nist/javax/sdp/fields/SDPObjectList.java
+END
+ZoneAdjustment.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/12/trunk/src/gov/nist/javax/sdp/fields/ZoneAdjustment.java
+END

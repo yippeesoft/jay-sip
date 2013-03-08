@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/12/trunk/src/gov/nist/javax/sdp
+END
+SdpEncoderImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/12/trunk/src/gov/nist/javax/sdp/SdpEncoderImpl.java
+END
+SessionDescriptionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12/trunk/src/gov/nist/javax/sdp/SessionDescriptionImpl.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/12/trunk/src/gov/nist/javax/sdp/package.html
+END
+TimeDescriptionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/12/trunk/src/gov/nist/javax/sdp/TimeDescriptionImpl.java
+END
+MediaDescriptionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/12/trunk/src/gov/nist/javax/sdp/MediaDescriptionImpl.java
+END

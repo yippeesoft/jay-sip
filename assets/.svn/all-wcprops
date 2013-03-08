@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/12/trunk/assets
+END
+slf4j-api-1.5.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/12/trunk/assets/slf4j-api-1.5.6.jar
+END
+slf4j-jdk14-1.5.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/12/trunk/assets/slf4j-jdk14-1.5.6.jar
+END
+log4j-1.2.8.jar
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/12/trunk/assets/log4j-1.2.8.jar
+END

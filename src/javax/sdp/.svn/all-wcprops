@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/12/trunk/src/javax/sdp
+END
+Info.java
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/12/trunk/src/javax/sdp/Info.java
+END
+SdpFactoryException.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/12/trunk/src/javax/sdp/SdpFactoryException.java
+END
+Time.java
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/12/trunk/src/javax/sdp/Time.java
+END
+URI.java
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/12/trunk/src/javax/sdp/URI.java
+END
+Connection.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/12/trunk/src/javax/sdp/Connection.java
+END
+RepeatTime.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/12/trunk/src/javax/sdp/RepeatTime.java
+END
+SdpParseException.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/12/trunk/src/javax/sdp/SdpParseException.java
+END
+TimeDescription.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/12/trunk/src/javax/sdp/TimeDescription.java
+END
+Attribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/12/trunk/src/javax/sdp/Attribute.java
+END
+BandWidth.java
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/12/trunk/src/javax/sdp/BandWidth.java
+END
+SdpException.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/12/trunk/src/javax/sdp/SdpException.java
+END
+Phone.java
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/12/trunk/src/javax/sdp/Phone.java
+END
+SdpFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/12/trunk/src/javax/sdp/SdpFactory.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/12/trunk/src/javax/sdp/package.html
+END
+Media.java
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/12/trunk/src/javax/sdp/Media.java
+END
+Field.java
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/12/trunk/src/javax/sdp/Field.java
+END
+MediaDescription.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/12/trunk/src/javax/sdp/MediaDescription.java
+END
+SdpConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/12/trunk/src/javax/sdp/SdpConstants.java
+END
+SessionName.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/12/trunk/src/javax/sdp/SessionName.java
+END
+Version.java
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/12/trunk/src/javax/sdp/Version.java
+END
+SdpEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/12/trunk/src/javax/sdp/SdpEncoder.java
+END
+EMail.java
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/12/trunk/src/javax/sdp/EMail.java
+END
+SessionDescription.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/12/trunk/src/javax/sdp/SessionDescription.java
+END
+Origin.java
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/12/trunk/src/javax/sdp/Origin.java
+END
+Key.java
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/12/trunk/src/javax/sdp/Key.java
+END
+TimeZoneAdjustment.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/12/trunk/src/javax/sdp/TimeZoneAdjustment.java
+END

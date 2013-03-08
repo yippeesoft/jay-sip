@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/12/trunk/doc/de/tinysip/sip/class-use
+END
+SipManagerSessionEvent.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/12/trunk/doc/de/tinysip/sip/class-use/SipManagerSessionEvent.html
+END
+SipMessageHandler.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/12/trunk/doc/de/tinysip/sip/class-use/SipMessageHandler.html
+END
+SipSession.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/12/trunk/doc/de/tinysip/sip/class-use/SipSession.html
+END
+AuthorizationDigest.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/12/trunk/doc/de/tinysip/sip/class-use/AuthorizationDigest.html
+END
+SipManagerStatusListener.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/12/trunk/doc/de/tinysip/sip/class-use/SipManagerStatusListener.html
+END
+SipRequestState.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/12/trunk/doc/de/tinysip/sip/class-use/SipRequestState.html
+END
+SipManagerStatusChangedEvent.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/12/trunk/doc/de/tinysip/sip/class-use/SipManagerStatusChangedEvent.html
+END
+SipAudioFormat.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/12/trunk/doc/de/tinysip/sip/class-use/SipAudioFormat.html
+END
+SipManager.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/12/trunk/doc/de/tinysip/sip/class-use/SipManager.html
+END
+SipManagerState.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/12/trunk/doc/de/tinysip/sip/class-use/SipManagerState.html
+END
+LocalSipProfile.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/12/trunk/doc/de/tinysip/sip/class-use/LocalSipProfile.html
+END
+SipContact.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/12/trunk/doc/de/tinysip/sip/class-use/SipContact.html
+END
+SipManagerCallStatusEvent.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/12/trunk/doc/de/tinysip/sip/class-use/SipManagerCallStatusEvent.html
+END

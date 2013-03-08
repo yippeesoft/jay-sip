@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TinySip Demo</string>
+    <string name="STUNError">Error while executing STUN Discovery</string>
+    <string name="SIPRegistrationError">Error while executing SIP registration</string>
+    <string name="SIPUnregistering">Unregistering SIP profile</string>
+    <string name="SIPRegistering">Registering SIP profile</string>
+    <string name="SIPCallConnected">SIP call connected to </string>
+    <string name="SIPReady">SIP profile registered successfully</string>
+    <string name="SIPInvite">Sending SIP Invite to </string>
+    <string name="STUNDiscovery">Starting STUN Discovery</string>
+    <string name="STUNNotSupported">NAT does not allow SIP connections</string>
+</resources>

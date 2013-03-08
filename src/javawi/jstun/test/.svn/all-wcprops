@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/12/trunk/src/de/javawi/jstun/test
+END
+DiscoveryInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/12/trunk/src/de/javawi/jstun/test/DiscoveryInfo.java
+END
+DiscoveryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/12/trunk/src/de/javawi/jstun/test/DiscoveryTest.java
+END
+BindingLifetimeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/12/trunk/src/de/javawi/jstun/test/BindingLifetimeTest.java
+END
